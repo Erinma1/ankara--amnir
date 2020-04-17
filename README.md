@@ -1,7 +1,9 @@
 1.     Title Page  
 What it needs: Game Name – Ankara & Amniré	
+
 2.     Game Overview
 What it needs:   	Game Concept: In this game its all about design. You get to make ankara fabric with different colors and styles. Then you make an outfit out of some of the fabric you made and some other options. Each outfit has to have at least 1 piece of fabric and there will also be themes for each level. As you move to different levels there will be different rules for you to follow. You get to dress different people in your designs. After each level, you get a certain amount of money, gems, or ankara print. Show everyone your sense of style.   
+
 3.     Gameplay and  Mechanics
 What it needs:		Gameplay
 Game Progression: Give a whole “Ankara” outfit, then push ready
