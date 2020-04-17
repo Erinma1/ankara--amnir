@@ -6,16 +6,16 @@ What it needs:   	Game Concept: In this game its all about design. You get to ma
 
 3.     Gameplay and  Mechanics
 What it needs:		Gameplay
-Game Progression: Give a whole “Ankara” outfit, then push ready
+Game Progression: Give a whole “Ankara” outfit, then push ready.
 Mission/challenge Structure: Stay on the theme, if not you lose money or gems. 
 Objectives – To make outfits that earn Ankara pieces, money, and gems resulting in more clothing to choose from.
 
 4.     Story, Setting, and Character 
 Story and Narrative – to show people the beauty of African clothing. Create a game that lets people see that anyone can make anything look beautiful. 
 Mechanics – You must stay on theme and have at least 1 Ankara print in your whole outfit.
-Objects – Clothing, Accessories, Ankara print 
-				Economy – Money, Gems, Ankara print
+Objects – Clothing, Accessories, Ankara print. 
+				Economy – Money, Gems, Ankara print.
 Game World: Elegant modern-day Africa:
- Classy and formal looking
+ Classy and formal looking.
 Disclaimer: This is not an action game so it will just have still pictures.
 
