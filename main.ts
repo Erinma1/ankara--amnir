@@ -138,3 +138,6 @@ let Amniré = sprites.create(img`
 . . . . . 8 8 . 8 8 . . . . . . 
 . . . . . f f . f f . . . . . . 
 `, SpriteKind.Player)
+controller.moveSprite(Amniré)
+// Your code seems to be working!  Nice start!  
+effects.confetti.endScreenEffect()
